@@ -22,15 +22,15 @@ puts snacks
 
 
 def breakfast(food = "frosted flakes")
-  puts "Morning is the best time for #{food}"
+puts "Morning is the best time for #{food}"
 end
 
 breakfast
 
 def lunch(food = "grilled cheese")
-  puts "Lunch is a great time for #{food}"
+  "Lunch is a great time for #{food}"
 end
-lunch
+puts lunch
 
 
   
