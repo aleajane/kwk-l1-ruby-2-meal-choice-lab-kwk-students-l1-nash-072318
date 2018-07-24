@@ -6,9 +6,6 @@ end
 # Define breakfast, lunch and dinner methods that return the meal choice passed into them. If nothing is passed in, it shoud default to the foods on the readme (frosted flake, grilled cheese, salmon)
 
 
-https://learn.co/tracks/kwk-student-lessons-l1/intro-to-ruby/methods/kwk-l1-meal-choice-lab#
-
-
 
 
 # Call the methods with puts and your own arguments here. Like this:
