@@ -27,4 +27,4 @@ puts snacks
 
 
 def breakfast()
-  puts "Morning is the best time for #{bre"
+  puts "Morning is the best time for #{food}"
