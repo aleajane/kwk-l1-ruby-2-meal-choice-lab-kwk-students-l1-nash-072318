@@ -26,6 +26,7 @@ puts snacks
 
 def breakfast(food = "frosted flakes")
   puts "Morning is the best time for #{food}"
+  puts "Lunch "
 end
 
 breakfast("scrambled eggs")
