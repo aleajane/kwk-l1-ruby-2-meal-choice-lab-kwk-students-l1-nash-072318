@@ -26,5 +26,6 @@ puts snacks
 
 
 
-def breakfast()
+def breakfast(food = scrambled eggs)
   puts "Morning is the best time for #{food}"
+end
