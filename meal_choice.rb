@@ -30,7 +30,7 @@ breakfast("scrambled eggs")
 def lunch(food = "grilled cheese")
   puts "Lunch is a great time for #{food}"
 end
-lunch(sandwich)
+lunch("sandwich")
 
 
   
