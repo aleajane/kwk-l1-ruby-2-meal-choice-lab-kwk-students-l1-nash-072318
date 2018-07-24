@@ -32,8 +32,10 @@ def lunch(food = "grilled cheese")
 end
 puts lunch
 
-def dinner(food = )
-
+def dinner(food = "salmon")
+  "Evening is a great time for #{food}"
+end
+puts dinner
 
   
   
